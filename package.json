@@ -1,0 +1,9 @@
+{
+  "name": "BotCamp",
+  "version": "1.0.0",
+  "description": "Projeto do BotCamp da Impulso Network",
+  "main": "index.js",
+  "repository": "https://github.com/isacmoura/BotCamp.git",
+  "author": "Isac Moura <contatoisacmoura@outlook.com>",
+  "license": "MPL-2.0"
+}
